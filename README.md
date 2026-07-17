@@ -18,7 +18,8 @@ This project is a web-based event management system that allows students to regi
 ## Deployment
 The project is deployed online using InfinityFree.
 Live Demo:
-[http://collegeevents.infinityfreeapp.com/college_events/login.php](https://college-event-management-system-t11z.onrender.com)
+[http://collegeevents.infinityfreeapp.com/college_events/login.php]
+(https://college-event-management-system-t11z.onrender.com)
 
 ## Author
 Mahesh Kumar
